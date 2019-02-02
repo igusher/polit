@@ -1,0 +1,11 @@
+Я=I
+ты=you
+хочу=want
+хотеть=want
+хочешь=want
+перевести=translate
+переводить=translate
+текст=text
+не=not
+нет=no
+что-то=something
